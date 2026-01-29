@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+/* Dark Finance Theme */
+:root {
+  --color-background: #121212;
+  --color-surface: #1E1E1E;
+  --color-primary: #10B981;
+  --color-secondary: #3B82F6;
+  --color-text: #E5E7EB;
+}
